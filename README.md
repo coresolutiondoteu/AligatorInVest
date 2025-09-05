@@ -358,5 +358,3 @@ Uses standard GNU/Linux tools, `pv`, `parallel`, `pigz/pzstd`, `jq`, `openssl`, 
 * [ ] `./full.sh menu` or `./full.sh run --steps all`
 * [ ] Verify `04_reports/summary.html`
 * [ ] Archive `99_bundle/` to your long-term storage
-
-**Done.** Copy this into `README.md` at the project root.
